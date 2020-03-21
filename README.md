@@ -1,2 +1,2 @@
 # dot net core website
-docssite
+https://dotnetify.net/
